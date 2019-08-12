@@ -1,4 +1,4 @@
-FROM java:12-jre
+FROM java:8-jre
 MAINTAINER Shine <ShineSmile@outlook.com>
 
 EXPOSE 25565:25565
